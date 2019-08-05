@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///node_modules/terra-spacer/lib/terra-dev-site/doc/example/Spacer.module.scss"],"names":[],"mappings":"AAAA,yBACE,kBAA8B,CAC/B,yBAGC,kBAA8B","file":"169-bfd43acf601cd6442436.css","sourcesContent":[".spacerdemodefault {\n  background: rgb(195, 207, 142);\n}\n\n.spacerdemoprimary {\n  background: rgb(100, 207, 142);\n}\n"]}

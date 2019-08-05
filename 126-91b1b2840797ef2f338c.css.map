@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///node_modules/terra-action-footer/lib/terra-dev-site/doc/common/ExampleTemplate.scss"],"names":[],"mappings":"AAAA,0CAGI,eACiB,CAJrB,gDAEI,yBAA0B,CAE1B,gBAAiB","file":"126-91b1b2840797ef2f338c.css","sourcesContent":[":local {\n  .content-wrapper {\n    border: 3px dotted #d3d4d5;\n    max-width: 768px;\n    padding-top: 2rem;\n  }\n}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///node_modules/terra-table/lib/terra-dev-site/doc/example/TableWithCustomCells.module.scss"],"names":[],"mappings":"AAAA,iEAEI,aAAc","file":"72-ba886a53ee1be8693f49.css","sourcesContent":[":local { \n  .custom-cell-header-wrapper {\n    color: #656565;\n  }\n}\n"]}

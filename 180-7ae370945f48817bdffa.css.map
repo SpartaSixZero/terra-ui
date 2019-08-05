@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///node_modules/terra-i18n/lib/terra-dev-site/doc/i18n/i18n.1.module.scss"],"names":[],"mappings":"AAAA,4CAEI,iBAAkB,CAFtB,sCAMI,gBAAiB","file":"180-7ae370945f48817bdffa.css","sourcesContent":[":local {\n  .example-description {\n    font-style: italic;\n  }\n\n  .weighted-text {\n    font-weight: bold;\n  }\n}\n"]}
